@@ -1,0 +1,62 @@
+table {
+    width: 60vw;
+}
+
+button {
+    border: none;
+    color: white;
+    background-color: #2266aa;
+    padding: 10px 15px;
+    margin: 5px;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #205599;
+}
+
+input[type='text'] {
+    font-size: 14px;
+    padding: 9px 15px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+th {
+    padding: 10px 25px;font-weight: 400;
+}
+
+tr.headerc {
+    background-color: #2266aa;
+    color: white;
+    font-size: 16px;
+}
+
+tr td {
+    padding: 5px 10px;
+
+}
+
+td {
+    margin: 0;
+}
+
+tr {
+    border-bottom: 1px solid;
+}
+
+tr:nth-child(even) {
+    background-color: #f0f0f0;
+}
+
+.pageno {
+    font-size: 20px;
+}
+
+table {
+    border-radius: 10px;
+}
